@@ -1,11 +1,11 @@
-# CitiBike in Des Moines Proposal
+# CitiBike as an Alternative Means of Transportation in Des Moines
 ***Analysis of bikesharing in New York as a model for Des Moines***
 #### by Justin R. Papreck
 ---
 
 ## Overview
 
-A proposal to open a CitiBike branch in Des Moines, Iowa has been suggested based on the success of the company in New York City, New York. The data were analyzed to determine whether this would be a viable venture using Tableau. The Tableau Story can be accessed here: [CitiBike Des Moines](https://public.tableau.com/app/profile/justin.papreck/viz/CitibikeChallenge_16612815995440/CitibikeDemoines)
+A proposal to open a CitiBike branch in Des Moines, Iowa has been suggested based on the success of the company in New York City, New York. The data were analyzed to determine whether this would be a viable venture using Tableau. The Tableau Story can be accessed here: [CitiBike as an Alternative Means of Transportation in Des Moines](https://public.tableau.com/app/profile/justin.papreck/viz/CitibikeChallenge_16612815995440/CitibikeDemoines)
 
 
 New York and Des Moines have very few things in common. One of them is the largest city in the united states, while the other is the largest city in a state that has less than 50% of the population of New York City alone. While the population of Des Moines is about 33 times smaller than that of New York, there is one commonality that the cities share: they are very, very flat. When considering implementing a bikeshare company, it is important to consider the clientele that will be utilizing the service. If the primary source of users in NYC are tourists, then while New York may be an excellent location, Des Moines may not be the ideal state to pitch this service as it isn't even in the top 20 cities to visit in the United States. However, if the primary users of the bikesharing service are locals who are employed relatively near their workplaces, the service may be an excellent addition to the city of Des Moines. 
